@@ -1,6 +1,6 @@
-=> 👋 Hi, I'm Taha Shafiq
+# 👋 Hi, I'm Taha Shafiq
 
--> ☕ Java Backend Developer in Progress | Spring Boot | Microservices | Cloud & Kubernetes Learner
+### ☕ Java Backend Developer in Progress | Spring Boot | Microservices | Cloud & Kubernetes Learner 
 
 [![GitHub](https://img.shields.io/badge/GitHub-tahashafiq175-black?style=flat\&logo=github)](https://github.com/tahashafiq175)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Shafiq-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/taha-shafiq-080694365)
@@ -8,13 +8,13 @@
 
 ---
 
-=> 🧑‍💻 About Me
+## => 🧑‍💻 About Me
 
 Hi! I'm **Taha**, a Computer Science student and a developer who enjoys learning how things work **behind the scenes**.
 
 My main interest is **Backend Development**, especially with **Java and Spring Boot**.
 
-I'm learning by doing:
+###I'm learning by doing:
 
 ```text
 📚 Learn
@@ -38,7 +38,7 @@ I'm trying to become **1% better every day.** 🌱
 
 ## ☕ My Main Stack
 
--> 💻 Backend
+###  -> 💻 Backend
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat\&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat\&logo=springboot)
@@ -54,7 +54,7 @@ I'm trying to become **1% better every day.** 🌱
 * Microservices
 * Maven
 
--> 🗄️ Databases
+###  -> 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat\&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat\&logo=mongodb)
@@ -66,7 +66,7 @@ I'm trying to become **1% better every day.** 🌱
 * MySQL
 * Redis
 
--> 🐳 DevOps & Cloud
+###  -> 🐳 DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat\&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat\&logo=kubernetes)
@@ -81,7 +81,7 @@ I'm trying to become **1% better every day.** 🌱
 * Git
 * GitHub Actions
 
--> 📊 Observability & Messaging
+###  -> 📊 Observability & Messaging
 
 * Apache Kafka
 * Prometheus
@@ -91,7 +91,7 @@ I'm trying to become **1% better every day.** 🌱
 * Distributed Tracing
 * Logs & Metrics
 
--> 🌐 Frontend
+###  -> 🌐 Frontend
 
 * HTML
 * CSS
@@ -102,15 +102,15 @@ I mainly focus on backend development, but I also enjoy understanding how the fr
 
 ---
 
-# 🚀 My Projects
+## 🚀 My Projects
 
-=> 📔 1. Journal App
+###  => 📔 1. Journal App
 
 🔗 **[View Repository](https://github.com/tahashafiq175/journalApp)**
 
 This was my **first Spring Boot project**, and it became a place where I practiced many important backend concepts.
 
--> What I practiced:
+#### -> What I practiced:
 
 * 🌱 Spring Boot
 * 🔗 REST APIs
@@ -127,7 +127,7 @@ This project taught me that backend development is much more than just creating 
 
 ---
 
-=> 📇 2. Contact Management Application
+###  => 📇 2. Contact Management Application
 
 🔗 **[View Repository](https://github.com/tahashafiq175/cohort-9-java-7944-taha)**
 
@@ -154,7 +154,7 @@ PostgreSQL
 
 ---
 
-=> 🛒 3. E-Commerce Backend Design
+###  => 🛒 3. E-Commerce Backend Design
 
 🔗 **[View Repository](https://github.com/tahashafiq175/ecommerce-backend-design)**
 
@@ -172,7 +172,7 @@ The project helped me practice building an application where the frontend commun
 
 ---
 
-=> 🏗️ 4. Microservices Practice Project
+###  => 🏗️ 4. Microservices Practice Project
 
 🔗 **[View Repository](https://github.com/tahashafiq175/microservice-config)**
 
@@ -224,7 +224,7 @@ This project helped me understand that when applications become distributed, **o
 
 ---
 
-=> 🧠 What I'm Learning
+###  => 🧠 What I'm Learning
 
 My current learning journey looks something like this:
 
@@ -254,161 +254,24 @@ I'm especially interested in understanding how backend applications are **built,
 
 ---
 
--> 📚 DSA Journey
 
-I've also spent time learning Data Structures & Algorithms.
-
-> Concepts I've worked with:
-
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
-* HashMaps
-* Recursion
-* Trees
-* Graphs
-
-For me, DSA is not only about interviews.
-
-It's about learning how to **think about problems**.
-
----
-
-=> 🐧 Linux
-
-I'm learning Linux because backend applications don't live only inside an IDE.
-
-They eventually run on machines, servers, containers, and cloud infrastructure.
-
-Currently exploring:
-
-```text
-Linux Fundamentals
-Filesystem
-Processes
-Permissions
-Networking
-Storage
-Package Management
-Shell Scripting
-Boot & Recovery
-Network Troubleshooting
-```
-
----
-
-=> 🎯 My Goal
-
-My long-term goal is to become a strong **Backend / Platform Engineer**.
-
-I want to understand the complete journey:
-
-```text
-👨‍💻 Write Code
-      ↓
-🏗️ Build Application
-      ↓
-🗄️ Connect Database
-      ↓
-🐳 Containerize
-      ↓
-☸️ Deploy
-      ↓
-🌐 Handle Networking
-      ↓
-📊 Monitor
-      ↓
-🔭 Trace
-      ↓
-☁️ Run in Production
-```
-
-I don't want to only know:
-
-> "How do I write the code?"
-
-I also want to know:
-
-> "What happens after I write the code?"
-
----
-
-=> 🌱 My Learning Philosophy
-
-I believe programming is a journey.
-
-Sometimes:
-
-```text
-Code works ✅
-```
-
-Sometimes:
-
-```text
-Code doesn't work ❌
-```
-
-Sometimes:
-
-```text
-I have absolutely no idea why it doesn't work 🤯
-```
-
-And then:
-
-```text
-Search 🔎
-   ↓
-Experiment 🧪
-   ↓
-Debug 🐛
-   ↓
-Understand 🧠
-   ↓
-Fix ✅
-```
-
-That's how I'm learning.
-
----
-
-=> 📈 Currently Focusing On
-
-```text
-☕ Advanced Java
-🌱 Spring Boot
-🔐 Spring Security
-🏗️ Microservices
-🐳 Docker
-☸️ Kubernetes
-🐧 Linux
-📨 Kafka
-📊 Prometheus & Grafana
-🔭 OpenTelemetry
-☁️ Cloud & Platform Engineering
-```
-
----
-
-=>  🤝 Let's Connect
+##  =>  🤝 Let's Connect
 
 If you're also learning **Java, Spring Boot, Backend Development, Microservices, Kubernetes, Linux, Cloud, or DevOps**, I'd love to connect and learn together.
 
 >>  🔗 Find Me Here
 
--> GitHub:
+### -> GitHub:
 https://github.com/tahashafiq175
 
--> LinkedIn:
+### -> LinkedIn:
 https://www.linkedin.com/in/taha-shafiq-080694365
 
--> Email:
+### -> Email:
 [tahashafiq175@gmail.com](mailto:tahashafiq175@gmail.com)
 
 
- ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting!
 
 > Everyone starts somewhere.
 > I'm still learning. I'm still building.
